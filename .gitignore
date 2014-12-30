@@ -1,0 +1,18 @@
+bin
+gen
+*.apk
+*.keystore
+.hg/
+local.properties
+*.DS_Store
+*.BridgeSort
+out/
+tmp/
+
+build/
+.gradle/
+
+*.iml
+
+# Crashlytics auto-generated file
+com_crashlytics_export_strings.xml
